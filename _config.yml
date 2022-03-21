@@ -18,7 +18,7 @@ author: Kaitlyn Rose Mitchell
 
 navbar-links:
   About Me: "aboutme"
-  Lab Notebook: "/_posts"
+  Lab Notebook: /posts
 
 # --- Logo --- #
 
