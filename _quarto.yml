@@ -2,22 +2,36 @@ project:
   type: website
 
 website:
-  description: "Built with Quarto"
-  site-url: https://kaitlynrm.github.io
   title: "Kaitlyn Rose Mitchell"
+  description: "Systems thinker connecting ecosystems and health for a sustainable, reslient future."
+  site-url: https://kaitlynrm.github.io
+  
   navbar:
+    left:
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Blog"
+        href: index.qmd
     right:
       - about.qmd
       - icon: github
         href: https://github.com/kaitlynrm
       - icon: linkedin
         href: https://www.linkedin.com/in/krmitch/
+ 
 format:
   html:
     theme:
       - cosmo
       - brand
     css: styles.css
-
+    
+ execute:
+  echo: true
+  warning: false
+  message: false
+  cache: true
 
 
