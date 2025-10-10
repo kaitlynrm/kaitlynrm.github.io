@@ -1,15 +1,11 @@
 ---
-title: "kaitlynrm.github.io"
-listing:
-  contents: posts
-  feed: true
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Blog"
+page-layout: article
 ---
 
+# Ecosystems · Health · Sustainability · Resilience
 
+I’m a **systems thinker** connecting ecological science and human health to inform **sustainable, resilient** decisions.  
+My work spans **disease ecology**, **freshwater & water systems**, **spatial modeling & uncertainty**, and **community-engaged** research.
+
+**Recent posts** appear below. For an overview of what I do, see [Research](research.qmd) or [About](about.qmd).
