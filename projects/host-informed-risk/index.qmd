@@ -1,0 +1,23 @@
+---
+title: "Host-informed disease risk mapping"
+---
+
+# Host-informed disease risk mapping
+
+Using host ecology, spatial models, and uncertainty propagation to improve predictions of schistosomiasis risk and guide multispecies survey design.
+
+## Project angle
+
+This project asks how knowledge of intermediate host distributions can improve disease-risk prediction and identify where uncertainty limits inference.
+
+## Methods and outputs
+
+- Species distribution models
+- Host-informed risk mapping
+- Uncertainty propagation
+- Survey-priority mapping
+- Reproducible spatial workflows
+
+## Publications / outputs
+
+- Propagating uncertainty from biotic interactions in species distribution models guides multispecies survey design. K Mitchell, M Goodman, P Ravoniarimbinina, C Wood, N Lo, et al. 2026.

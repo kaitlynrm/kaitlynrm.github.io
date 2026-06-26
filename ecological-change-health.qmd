@@ -1,0 +1,56 @@
+---
+title: "Ecological Change & Human Health"
+---
+
+::: {.section-intro}
+# Ecological Change & Human Health
+
+This work asks how local freshwater ecosystem change affects disease-relevant hosts, human exposure, and infection outcomes. These projects focus on ecological processes at the scale of villages, water-contact sites, habitats, and freshwater communities.
+:::
+
+::: {.project-card-grid}
+
+::: {.project-card}
+![Prawn restoration or freshwater intervention site](images/prawn-restoration.jpg){.project-card-image}
+
+### Prawn restoration and infection outcomes
+
+Testing whether ecological restoration can support human health by changing freshwater host communities and infection outcomes.
+
+**Lead research · restoration · intervention evaluation · One Health**
+
+[See more →](projects/prawn-restoration/){.see-more}
+:::
+
+::: {.project-card}
+![Trash or debris in freshwater habitat](images/trash-snail-habitat.jpg){.project-card-image}
+
+### Trash as habitat for disease hosts
+
+Investigating whether anthropogenic debris creates habitat for freshwater snail hosts and changes local disease ecology.
+
+**Lead research · pollution · habitat change · environmental health**
+
+[See more →](projects/trash-snail-habitat/){.see-more}
+:::
+
+::: {.project-card}
+![Freshwater or crayfish field image](images/invasive-crayfish.jpg){.project-card-image}
+
+### Invasive crayfish and snail host ecology
+
+Examining how a novel predator may alter snail host populations and reshape freshwater disease-host communities.
+
+**Lead research · invasive species · predator–prey ecology · freshwater systems**
+
+[See more →](projects/invasive-crayfish/){.see-more}
+:::
+
+:::
+
+::: {.related-work}
+### Related collaborations
+
+- Collaborative thermal modeling work examined how seasonal temperature variation may affect snail behavior and schistosomiasis transmission.
+- Collaborative One Health and public health work has informed how ecological evidence can be connected to disease control decisions.
+:::

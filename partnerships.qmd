@@ -1,0 +1,35 @@
+---
+title: "Partnerships"
+---
+
+# Partnerships
+
+I collaborate with research groups, NGOs, public health teams, conservation programs, and environmental organizations on projects that connect ecological change, biological response, spatial analysis, and health.
+
+::: {.project-card-grid}
+
+::: {.project-card}
+![Partnership image for SIA](images/partnership-sia.jpg){.project-card-image}
+
+### SIA
+
+Brief description of this partnership, collaboration, or consulting work.
+
+**Partnership · applied research · environmental health**
+
+[See more →](#){.see-more}
+:::
+
+::: {.project-card}
+![Partnership image for RISEAL](images/partnership-riseal.jpg){.project-card-image}
+
+### RISEAL
+
+Brief description of this partnership, collaboration, or consulting work.
+
+**Partnership · implementation · ecological health**
+
+[See more →](#){.see-more}
+:::
+
+:::

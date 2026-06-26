@@ -1,0 +1,22 @@
+---
+title: "Oyster proteomics and temperature response"
+---
+
+# Oyster proteomics and temperature response
+
+Temporal proteomic profiling of developmental and temperature-influenced physiological responses in a bivalve mollusc.
+
+## Project angle
+
+This project examined how biological development and temperature influence proteomic patterns in a marine organism.
+
+## Methods and outputs
+
+- Proteomics
+- Developmental biology
+- Temperature response
+- Biological data analysis
+
+## Publications / outputs
+
+- Temporal proteomic profiling reveals insight into critical developmental processes and temperature-influenced physiological response differences in a bivalve mollusc. Wanamaker, Mitchell, et al. BMC Genomics, 2020.

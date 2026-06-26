@@ -1,0 +1,41 @@
+---
+title: "Teaching & Mentorship"
+---
+
+# Teaching & Mentorship
+
+I value making science accessible, useful, and collaborative. My teaching and mentorship work spans ecology, quantitative methods, field research, scientific communication, and support for students navigating research.
+
+::: {.project-card-grid}
+
+::: {.project-card}
+![Teaching image](images/teaching.jpg){.project-card-image}
+
+### Teaching
+
+Experience supporting students in ecology, biology, environmental health, and quantitative research methods.
+
+**Teaching · quantitative methods · ecology**
+:::
+
+::: {.project-card}
+![Mentorship image](images/mentorship.jpg){.project-card-image}
+
+### Mentorship
+
+Mentoring students and early-career researchers through fieldwork, analysis, writing, and professional development.
+
+**Mentorship · research training · professional development**
+:::
+
+::: {.project-card}
+![Outreach image](images/outreach.jpg){.project-card-image}
+
+### Outreach and engagement
+
+Communicating environmental health research across audiences and working across cultural, disciplinary, and institutional contexts.
+
+**Outreach · science communication · community engagement**
+:::
+
+:::

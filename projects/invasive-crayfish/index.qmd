@@ -1,0 +1,22 @@
+---
+title: "Invasive crayfish and disease-host ecology"
+---
+
+# Invasive crayfish and disease-host ecology
+
+Examining how a novel invasive predator may alter snail host populations and overlap with freshwater disease landscapes.
+
+## Project angle
+
+This work connects invasive species, predator-prey relationships, freshwater community change, and schistosomiasis host ecology.
+
+## Methods and outputs
+
+- Field-informed ecological models
+- Predator-prey impact analysis
+- Habitat suitability and spread mapping
+- Overlap with disease-host systems
+
+## Publications / outputs
+
+- Temperature affects predation of schistosome-competent snails by a novel invader, the marbled crayfish *Procambarus virginalis*. Faiad et al. PLOS One, 2023.

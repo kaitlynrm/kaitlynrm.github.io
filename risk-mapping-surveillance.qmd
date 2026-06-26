@@ -1,0 +1,37 @@
+---
+title: "Risk Mapping & Disease Surveillance"
+---
+
+::: {.section-intro}
+# Risk Mapping & Disease Surveillance
+
+This work asks where schistosomiasis transmission systems and transmission-relevant organisms are likely to occur, and where surveillance can be most informative. These projects operate at broad spatial scales, from landscapes to national surveillance priorities.
+:::
+
+::: {.project-card-grid}
+
+::: {.project-card}
+![Schistosomiasis and snail host modeling image](images/schisto-snail-modeling.jpg){.project-card-image}
+
+### Schistosomiasis and snail host modeling
+
+Using host ecology, spatial models, and uncertainty analysis to improve predictions of schistosomiasis risk and guide survey design.
+
+**Lead research · disease ecology · spatial modeling · uncertainty**
+
+[See more →](projects/schisto-snail-modeling/){.see-more}
+:::
+
+::: {.project-card}
+![Crayfish range mapping image](images/crayfish-range-mapping.jpg){.project-card-image}
+
+### Crayfish range mapping and surveillance priorities
+
+Modeling the potential distribution of invasive crayfish and identifying where spread may overlap with schistosomiasis transmission landscapes.
+
+**Lead research · invasive species · surveillance · spatial prediction**
+
+[See more →](projects/crayfish-range-mapping/){.see-more}
+:::
+
+:::

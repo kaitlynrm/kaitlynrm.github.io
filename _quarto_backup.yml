@@ -1,0 +1,44 @@
+project:
+  type: website
+  resources:
+    - images/**
+
+website:
+  title: "Kaitlyn Rose Mitchell"
+  description: "Ecological data, disease systems, and environmental decision support."
+  site-url: https://kaitlynrm.github.io
+
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        menu:
+          - text: "Research Overview"
+            href: research.qmd
+          - text: "Ecological Change & Health"
+            href: ecological-change-health.qmd
+          - text: "Organisms Under Pressure"
+            href: organisms-under-pressure.qmd
+      - text: "Partnerships"
+        href: partnerships.qmd
+      - text: "Teaching & Mentorship"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/kaitlynrm
+      - icon: linkedin
+        href: https://www.linkedin.com/in/krmitch/
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+
+execute:
+  echo: true
+  warning: false
+  message: false
+  cache: true

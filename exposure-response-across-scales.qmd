@@ -1,0 +1,63 @@
+---
+title: "Exposure & Response Across Scales"
+---
+
+::: {.section-intro}
+# Exposure & Response Across Scales
+
+This work asks what happens after exposure. Across organismal, individual, and cellular scales, these projects examine how environmental, infectious, and treatment-related exposures shape biological responses, life-history traits, immune outcomes, and molecular pathways.
+
+This section includes selected collaborations and earlier methods experience that broaden my training across field ecology, public health, physiology, proteomics, immunology, and molecular biology.
+:::
+
+::: {.project-card-grid}
+
+::: {.project-card}
+![Snail life-history response image](images/plastic-snail-life-history.jpg){.project-card-image}
+
+### Plastic pollution and snail life-history traits
+
+Examining how plastic pollution may alter snail host traits relevant to schistosomiasis transmission.
+
+**Lead research · snail ecology · life history · pollution**
+
+[See more →](projects/plastic-snail-life-history/){.see-more}
+:::
+
+::: {.project-card}
+![Schistosomiasis, anemia, and immune response image](images/schisto-anemia-immunity.jpg){.project-card-image}
+
+### Schistosomiasis, anemia, and immune response
+
+Collaborative work examining how infection relates to human health outcomes, immune response, and disease burden.
+
+**Collaboration · infection · immunity · public health**
+
+[See more →](projects/schisto-anemia-immunity/){.see-more}
+:::
+
+::: {.project-card}
+![Oyster or marine laboratory image](images/oyster-proteomics.jpg){.project-card-image}
+
+### Oyster proteomics and temperature response
+
+Proteomic profiling of developmental and temperature-influenced physiological responses in a bivalve mollusc.
+
+**Collaboration · proteomics · temperature response · development**
+
+[See more →](projects/oyster-proteomics/){.see-more}
+:::
+
+::: {.project-card}
+![Laboratory image for molecular biology and treatment response](images/cancer-treatment-resistance.jpg){.project-card-image}
+
+### Treatment-resistant cancer pathways
+
+Earlier biomedical research that built wet lab experience in molecular pathways, treatment resistance, Western blotting, DNA extraction, and bacterial culture.
+
+**Earlier methods experience · molecular biology · treatment response**
+
+[See more →](projects/cancer-treatment-resistance/){.see-more}
+:::
+
+:::

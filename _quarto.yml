@@ -1,37 +1,44 @@
 project:
   type: website
+  resources:
+    - images/**
 
 website:
   title: "Kaitlyn Rose Mitchell"
-  description: "Systems thinker connecting ecosystems and health for a sustainable, reslient future."
+  description: "Ecological data, disease systems, and environmental decision support."
   site-url: https://kaitlynrm.github.io
-  
+
   navbar:
     left:
+      - text: "Home"
+        href: index.qmd
       - text: "Research"
         href: research.qmd
-      - text: "Publications"
-        href: publications.qmd
-      - text: "Blog"
-        href: index.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Partnerships"
+        href: partnerships.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Consulting"
+        href: consulting.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "About"
+        href: about.qmd
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/kaitlynrm
       - icon: linkedin
         href: https://www.linkedin.com/in/krmitch/
- 
+
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: spacelab
     css: styles.css
-    
- execute:
+
+execute:
   echo: true
   warning: false
   message: false
   cache: true
-
-

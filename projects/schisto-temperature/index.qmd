@@ -1,0 +1,24 @@
+---
+title: "Thermal response of schistosomiasis transmission"
+---
+
+# Thermal response of schistosomiasis transmission
+
+Collaborative modeling work examining how temperature and seasonal fluctuation shape snail behavior, parasite dynamics, and transmission risk.
+
+## Project angle
+
+This work explores how thermal environments influence disease transmission assumptions and the biological dynamics of schistosomiasis.
+
+## Methods and outputs
+
+- Temperature-dependent transmission modeling
+- Thermal response analysis
+- Seasonal fluctuation
+- Snail and parasite dynamics
+
+## Publications / outputs
+
+- Re-assessing thermal response of schistosomiasis transmission risk: Evidence for a higher thermal optimum than previously predicted. Aslan et al. PLOS Neglected Tropical Diseases, 2024.
+- Seasonal temperature fluctuation and snail adaptive behaviors yield insights into the dynamics and distribution of schistosomiasis in Africa. Aslan et al. Research Square, 2025.
+- Thermal sensitive mathematical model of schistosomiasis. Aslan, De Leo, Pourtois, Mitchell. JMM 2024.

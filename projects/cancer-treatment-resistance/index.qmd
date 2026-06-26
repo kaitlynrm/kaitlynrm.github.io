@@ -1,0 +1,23 @@
+---
+title: "Treatment-resistant cancer pathways"
+---
+
+# Treatment-resistant cancer pathways
+
+Earlier biomedical research that built wet lab experience in molecular pathways, treatment resistance, Western blotting, DNA extraction, and bacterial culture.
+
+## Project angle
+
+This work contributed to research on molecular mechanisms of treatment resistance in head and neck cancer and provided foundational wet lab and experimental biology experience.
+
+## Methods and outputs
+
+- Western blotting
+- DNA extraction
+- Bacterial culture
+- Molecular biology workflows
+- Treatment response and resistance pathways
+
+## Publications / outputs
+
+- AXL mediates cetuximab and radiation resistance through tyrosine 821 and the c-ABL kinase pathway in head and neck cancer. McDaniel et al. Clinical Cancer Research, 2020.

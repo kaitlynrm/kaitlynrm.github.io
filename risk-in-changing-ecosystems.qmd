@@ -1,0 +1,43 @@
+---
+title: "Risk in Changing Ecosystems"
+---
+
+# Risk in Changing Ecosystems
+
+Environmental change can alter species interactions, ecosystem health, and disease risk. This theme brings together projects on freshwater systems, invasive species, restoration, plastic pollution, temperature, and schistosomiasis transmission.
+
+::: {.project-card-grid}
+
+::: {.mini-project-card}
+## Host-informed disease risk mapping
+
+Using host ecology and uncertainty modeling to improve predictions of schistosomiasis risk.
+
+**Tags:** infectious disease · spatial modeling · uncertainty · survey design
+:::
+
+::: {.mini-project-card}
+## Invasive crayfish and disease-host ecology
+
+Examining how a novel predator may alter snail host populations and overlap with disease transmission landscapes.
+
+**Tags:** invasive species · predator–prey · freshwater systems · impact assessment
+:::
+
+::: {.mini-project-card}
+## Prawn restoration and infection outcomes
+
+Testing whether ecological restoration can support human health by changing freshwater host communities and infection outcomes.
+
+**Tags:** restoration · intervention evaluation · One Health · public health
+:::
+
+::: {.mini-project-card}
+## Trash as habitat for disease hosts
+
+Investigating whether anthropogenic debris creates habitat for freshwater snail hosts and changes local disease ecology.
+
+**Tags:** plastic pollution · habitat change · community ecology · environmental health
+:::
+
+:::

@@ -1,0 +1,61 @@
+---
+title: "Organisms Under Pressure"
+---
+
+::: {.section-intro}
+# How do organisms respond under pressure?
+
+Projects in this theme examine biological response across scales, from molecular pathways and proteomics to immune response, thermal stress, infection, and health outcomes.
+:::
+
+::: {.project-card-grid}
+
+::: {.project-card}
+![Field or health research image for schistosomiasis and immune response](images/schisto-health-outcomes.jpg){.project-card-image}
+
+### Schistosomiasis, anemia, and immune response
+
+Collaborative work examining how infection relates to human health outcomes, immune response, and disease burden.
+
+**Immunology · anemia · infection · public health**
+
+[See more →](projects/schisto-health-outcomes/){.see-more}
+:::
+
+::: {.project-card}
+![Oyster or marine laboratory image](images/oyster-proteomics.jpg){.project-card-image}
+
+### Oyster proteomics and temperature response
+
+Proteomic profiling of developmental and temperature-influenced physiological responses in a bivalve mollusc.
+
+**Proteomics · temperature stress · development**
+
+[See more →](projects/oyster-proteomics/){.see-more}
+:::
+
+::: {.project-card}
+![Thermal stress or snail temperature response image](images/schisto-temperature.jpg){.project-card-image}
+
+### Thermal response of schistosomiasis transmission
+
+Collaborative modeling work examining how temperature and seasonal fluctuation shape snail behavior, parasite dynamics, and transmission.
+
+**Thermal ecology · infectious disease · modeling**
+
+[See more →](projects/schisto-temperature/){.see-more}
+:::
+
+::: {.project-card}
+![Laboratory image for molecular biology and treatment response](images/cancer-treatment-resistance.jpg){.project-card-image}
+
+### Treatment-resistant cancer pathways
+
+Earlier biomedical research that built wet lab experience in molecular pathways, treatment resistance, Western blotting, DNA extraction, and bacterial culture.
+
+**Molecular biology · wet lab · treatment response**
+
+[See more →](projects/cancer-treatment-resistance/){.see-more}
+:::
+
+:::

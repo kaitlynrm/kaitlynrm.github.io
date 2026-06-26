@@ -1,0 +1,19 @@
+﻿---
+title: "Lyme Disease Ecology and Environmental Change"
+---
+
+# Lyme Disease Ecology and Environmental Change
+
+This page will describe work or interests related to Lyme disease ecology, vector-borne disease systems, host communities, land use, and environmental change.
+
+## Overview
+
+Add project details here.
+
+## Why it matters
+
+Add broader relevance here.
+
+## Methods and outputs
+
+Add methods, collaborators, publications, presentations, or outputs here.
